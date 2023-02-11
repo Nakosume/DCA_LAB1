@@ -1,0 +1,25 @@
+{
+  "name": "dca_lab1",
+  "version": "1.0.0",
+  "description": "LAB1: npm usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakosume/DCA_LAB1.git"
+  },
+  "author": "Sebastian Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nakosume/DCA_LAB1/issues"
+  },
+  "homepage": "https://github.com/Nakosume/DCA_LAB1#readme",
+  "devDependencies": {
+    "name-generate": "^0.0.1"
+  },
+  "dependencies": {
+    "cowsayjs": "^2.0.0"
+  }
+}
